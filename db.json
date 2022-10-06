@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "chiheb chabou",
+      "email": "chiheb@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "john doe",
+      "email": "john@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "john doe",
+      "email": "john@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ]
+}
